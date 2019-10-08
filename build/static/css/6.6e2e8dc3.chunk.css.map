@@ -1,0 +1,1 @@
+{"version":3,"sources":["homepage.css"],"names":[],"mappings":"AAAA,gBACE,WAAY,CACZ,eACF,CACA,cACE,YAAa,CACb,aAAc,CACd,yBACF","file":"6.6e2e8dc3.chunk.css","sourcesContent":[".home-container{\n  padding: 1em;\n  text-align: left;\n}\n.link-to-page{\n  padding: 1rem;\n  color: #ed0074;\n  text-decoration: underline;\n}"]}
