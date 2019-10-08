@@ -1,0 +1,2 @@
+(window.webpackJsonpapp=window.webpackJsonpapp||[]).push([[6],{64:function(e,n,a){},88:function(e,n,a){"use strict";a.r(n),a.d(n,"default",function(){return p});var t=a(0),c=a.n(t),o=a(17);a(64);function p(){return c.a.createElement("div",{className:"home-container"},"Home Page !",c.a.createElement("p",{className:"link-to-page"},c.a.createElement(o.b,{to:"landing-page"},"landing page")))}}}]);
+//# sourceMappingURL=6.0dd0b6fe.chunk.js.map
